@@ -82,8 +82,8 @@ YVR-Business-licences-research/
 - Specific local areas show strong potential for new ventures based on low competition and growth trends.
 
 ## Contributors
-- [Otávio Londero] (Main Research and Development)
-- [Amir Oliveira] (Main Research and Development)
+- [Otávio Londero](https://github.com/0Londero) Main Research and Development
+- [Amir Oliveira](https://github.com/ALOBlack19) Main Research and Development
 
 ## License and Terms of Use
 
